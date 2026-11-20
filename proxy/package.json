@@ -1,0 +1,12 @@
+{
+  "name": "habla-fluido-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Node que protege la llave de la IA para la app Habla Fluido",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
